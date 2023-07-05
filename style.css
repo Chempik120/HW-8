@@ -1,5 +1,5 @@
-.text-box #greycol{color: grey;}
-.text-box #pinkcol{color: pink;}
+#greycol{color: grey;}
+.pinkcol{color: pink;}
 .text-box > div > p{color: red;}
 .greenp{color: green;}
 .yellow{color: yellow;}
